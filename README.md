@@ -1,16 +1,49 @@
-## Hi there 👋
+# Hi, I'm Petr! 👋
+
+### 🚀 Future Data Scientist & Quantitative Finance Specialist
+Currently pursuing an **MSc in Mathematical Finance (ISEG)**, I bridge the gap between complex stochastic models and scalable Machine Learning solutions for the financial sector.
+
+- 🎓 **Education:**
+  - ⏳ **MSc in Mathematical Finance** - In Progress (ISEG, Lisbon, Portugal)
+  - ✅ **BSc in Data Science** (NOVA IMS, Lisbon, Portugal)
+  - ✅ **Post-Grad in Data Science for Finance** (NOVA IMS, Lisbon, Portugal)
+  - ✅ **Post-Grad in Portfolio Management** (INDEG-ISCTE, Lisbon, Portugal)
+  
+- 💡 **Interests:**
+  - 🧪 **Decentralized Finance** 
+  - 🤖 **Algorithmic Trading** 
+  - 📊 **Financial Econometrics**
+  - ♾️ **Stochastic Calculus**
+  - 🛡️ **Risk Management** 
+  
+---
+
+### 🛠️ Tech Stack
+
+| Category | Technologies |
+| :--- | :--- |
+| **Languages** | ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![R](https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white) ![SQL](https://img.shields.io/badge/sql-%2300758F.svg?style=for-the-badge&logo=postgresql&logoColor=white) |
+| **Data Science** | ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![Scikit-Learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white) |
+| **Tools** | ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![Databricks](https://img.shields.io/badge/Databricks-FF3621?style=for-the-badge&logo=Databricks&logoColor=white) ![SAS](https://img.shields.io/badge/SAS-00487F?style=for-the-badge&logo=sas&logoColor=white) |
+| **Quant Finance** | 🎲 Stochastic Models, 📈 Financial Econometrics, 📜 Options Pricing, ⚖️ Portfolio Optimization |
+
+---
+
+### 📈 Current Focus & Research
+* **Master's Thesis:** BTC Volatility Forecasting and Option Pricing
+  
+---
 
 <!--
-**pterletskiy/pterletskiy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=pterletskiy&show_icons=true&theme=radical&include_all_commits=true&count_private=true" alt="GitHub Stats" />
+</div>
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+---
 -->
+
+### 🌐 Let's Connect
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/petr-terletskiy/) 
+
+---
+*“Merging mathematical rigor with the power of data.”*
