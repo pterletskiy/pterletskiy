@@ -47,17 +47,6 @@ Currently pursuing an **MSc in Mathematical Finance (ISEG)**, I bridge the gap b
 * **[Credit Risk Scoring](https://github.com/pterletskiy/credit-risk-modeling-default-prediction)**: Default prediction model using CatBoost and XGBoost with rigorous data leakage prevention.
 
 ---
-<!--
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pterletskiy&layout=compact&theme=radical&hide_border=true" alt="Most Used Languages" />
-
----
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=pterletskiy&show_icons=true&theme=radical&include_all_commits=true&count_private=true" alt="GitHub Stats" />
-</div>
-
----
--->
 
 ### 🌐 Let's Connect
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/petr-terletskiy/) 
