@@ -31,7 +31,21 @@ Currently pursuing an **MSc in Mathematical Finance (ISEG)**, I bridge the gap b
 
 ### 🔎 Current Focus & Research
 * **Master's Thesis:** BTC Volatility Forecasting and Option Pricing
-  
+
+---
+
+### 📂 Featured Projects
+
+#### 📈 Quantitative Finance & Trading
+* **[Crypto Algorithmic Trading](https://github.com/pterletskiy/crypto-algorithmic-trading-strategies)**: Backtesting of VWMA trend-following and BTC-ETH Pairs Trading with Out-of-Sample validation.
+* **[CGMY Lévy Option Pricing](https://github.com/pterletskiy/cgmy-levy-model-option-pricing)**: Analytical pricing via Bakshi-Madan and Fourier Inversion, validated by Monte Carlo simulations.
+* **[Nyström Method for IDEs](https://github.com/pterletskiy/nystrom-method-ide-solver)**: Numerical solver for linear and nonlinear integro-differential equations in financial modeling.
+* **[Risk Parity & BS Pipeline](https://github.com/pterletskiy/risk-parity-portfolio-bs-options-calculator)**: Portfolio optimization coupled with a Black-Scholes Greeks analyzer.
+
+#### 🤖 Data Science & Machine Learning
+* **[Stock Sentiment Analysis](https://github.com/pterletskiy/stock-sentiment-analysis-nlp)**: NLP pipeline (TF-IDF + SVM) for classifying market sentiment from financial tweets.
+* **[Credit Risk Scoring](https://github.com/pterletskiy/credit-risk-modeling-default-prediction)**: Default prediction model using CatBoost and XGBoost with rigorous data leakage prevention.
+
 ---
 <!--
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pterletskiy&layout=compact&theme=radical&hide_border=true" alt="Most Used Languages" />
