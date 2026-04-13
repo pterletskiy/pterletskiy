@@ -30,7 +30,7 @@ Currently pursuing an **MSc in Mathematical Finance (ISEG)**, I bridge the gap b
 ---
 
 ### 🔎 Current Focus & Research
-* **Master's Thesis:** BTC Volatility Forecasting and Option Pricing
+* **Master's Thesis:** BTC Price Direction Forecasting 
 
 ---
 
