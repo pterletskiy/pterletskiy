@@ -30,7 +30,7 @@ Currently pursuing an **MSc in Mathematical Finance (ISEG)**, I bridge the gap b
 ---
 
 ### 🔎 Current Focus & Research
-* **Master's Thesis:** BTC Price Direction Forecasting 
+* 2. **[Master's Thesis](https://github.com/pterletskiy/BTC_KAN_AFML)**: Full AFML-compliant benchmark of six ML models on BTC daily direction, with a closed-form symbolic formula for P(Up) extracted from the trained KAN as the novel contribution; defended at ISEG (19/20) 📚
 
 ---
 
